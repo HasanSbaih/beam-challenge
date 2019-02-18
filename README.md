@@ -5,8 +5,9 @@ This is the beam challenge solution powered by JAVA 8 & Spring Framework.
 #### Configurations
 You Can add the Urls for the crazy and best hotel providers by modifying the application.properties file
 
-hotel.provider.crazy=
-hotel.provider.best=
+hotel.provider.crazy
+
+hotel.provider.best
 
 #### Api DOCS
 
